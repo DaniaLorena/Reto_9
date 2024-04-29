@@ -181,10 +181,11 @@ Realice pruebas para calcular fibonacci con iteración o con recursión. Determi
   
 ```
 ### Perfil de  stackoverflow
-[Captura-de-pantalla-2024-04-29-164934.png](https://postimg.cc/PCyq7ySp)
 - https://stackoverflow.com/users/24786586/dania-lorena-perez-moreno?tab=profile
+[![Captura-de-pantalla-2024-04-29-164934.png](https://i.postimg.cc/0NRJbHmf/Captura-de-pantalla-2024-04-29-164934.png)](https://postimg.cc/PCyq7ySp)
 ### Perfil de Linkedin
-[Captura-de-pantalla-2024-04-29-170536.png](https://postimg.cc/jLVCnLW5)
 - www.linkedin.com/in/dania-perez
+[![Captura-de-pantalla-2024-04-29-170536.png](https://i.postimg.cc/GhtDNDdk/Captura-de-pantalla-2024-04-29-170536.png)](https://postimg.cc/jLVCnLW5)
+
 
 
